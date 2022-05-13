@@ -1,0 +1,17 @@
+{
+  "name": "hyuh-gifted-ar-map",
+  "version": "1.0.0",
+  "description": "HYUH Gifited Ar Map",
+  "main": "src/index.ts",
+  "author": "YEAHx4",
+  "license": "GPL-3.0",
+  "private": true,
+  "dependencies": {
+    "ts-node": "^10.7.0"
+  },
+  "devDependencies": {
+    "concurrently": "^7.1.0",
+    "nodemon": "^2.0.16",
+    "typescript": "^4.6.4"
+  }
+}
